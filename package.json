@@ -2,9 +2,6 @@
   "dependencies": {
     "json-server": "^0.17.1"
   },
-  {
-  "type": "module"
-  },
   "scripts": {
     "start": "node server.js"
   },
